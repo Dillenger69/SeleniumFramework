@@ -1,0 +1,6 @@
+@SeleniumFramework.WebApi_HostAddress = http://localhost:5068
+
+GET {{SeleniumFramework.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
